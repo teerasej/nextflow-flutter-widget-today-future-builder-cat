@@ -71,16 +71,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 SizedBox(
                   height: 10,
                 ),
-                FutureBuilder(
-                  future: getCatImageUrl(),
-                  builder: (BuildContext context, AsyncSnapshot<String> snapshot) {  
-                    if(snapshot.connectionState == ConnectionState.done){
-                      return Image.network(snapshot.data);
-                    } else {
-                      return CircularProgressIndicator();
-                    }
-                  },
-                )
+                CircularProgressIndicator()
               ],
             )));
   }
