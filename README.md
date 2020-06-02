@@ -1,16 +1,20 @@
-# nextflow_widget_futurebuilder
+# Flutter 3 นาทีกับโค้ชพล: FutureBuilder
 
-A new Flutter project.
+โปรเจค Flutter สำหรับฝึกฝนเรียนรู้การใช้งาน Flutter กับโค้ชพลนะครับ ในรอบนี้มารู้จักกับ FutureBuilder ที่ทำให้การจัดการติดต่อกับ Web API และการทำงานแบบ Async ต่างๆ นั้นเป็นระเบียบ และเป็นขั้นตอนมากขึ้น
 
-## Getting Started
+- ต่อ Web API ก็แจ่ม
+- ติดต่อกับ Device API ก็เยี่ยม
+- นั่นคือตัวไหนทำงานแบบ Async กับ Future ใช้กับ FutureBuilder ได้หมดเลยจ้า
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## ดูคลิปทำตามได้ที่นี่เลย 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+สามารถกด subscribe ติดตามคลิปเรื่อง Flutter และคลิปใหม่ๆ ได้ผ่านช่อง Youtube ของโค้ชพลนะครับ 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://youtu.be/ktytBG1qJoc
+
+## เริ่มต้นเรียนรู้สร้างแอพ iOS และ Android ด้วย Google Flutter 
+
+ออกแบบให้เข้าใจง่าย ฝึกทำและเรียนรู้จากแอพจริง ดูรายละเอียดและซื้อได้ที่ลิ้งค์ด้านล่างเลยครับ 
+
+https://nextflow.in.th/google-flutter-online/
